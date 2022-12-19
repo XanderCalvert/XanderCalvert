@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as a Jr Full Stack Web Dev. Having learnt to code during lockdowns I have left the word of Gym Management behind for a career I am loving in tech.<br>Currently working perdominantly in WordPress, giving me exposure to;<br>PHP, React and SQL.<br><br>I am always enjoying sinking my teeth into a new challenge and am starting to contribute to some code bases.
+I am currently working as a Full Stack Web Dev. Having learnt to code during lockdowns I have left the word of Gym Management behind for a career I am loving in tech.<br>Currently working perdominantly in WordPress, giving me exposure to;<br>PHP, React and SQL.<br><br>I am always enjoying sinking my teeth into a new challenge and am starting to contribute to some code bases.
 
 
 ## 🌐 Socials:
