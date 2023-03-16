@@ -4,13 +4,13 @@ I am currently working as a Full Stack Web Dev. Having learnt to code during loc
 
 ## 🌐 Socials:
 <div id="badges">
-  <a href="[your-linkedin-URL](https://linkedin.com/in/matt-calvert/)">
+  <a href="https://linkedin.com/in/matt-calvert">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[https://www.youtube.com/@codingcompiled](https://www.youtube.com/@codingcompiled)">
+  <a href="https://www.youtube.com/@codingcompiled">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="[https://medium.com/@Calvert_](https://medium.com/@Calvert_)">
+  <a href="https://medium.com/@Calvert_">
     <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
   </a>
 </div>
