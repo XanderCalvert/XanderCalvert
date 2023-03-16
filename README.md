@@ -21,8 +21,8 @@ I am currently working as a Full Stack Web Dev. Having learnt to code during loc
 ![Snake animation](https://github.com/XanderCalvert/XanderCalvert/blob/output/github-contribution-grid-snake.svg?color_snake=#4489ec&color_dots=#2d333b,#14482e,#067238,#2dab47,#38d353)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="[github-snake-dark.svg](https://github.com/XanderCalvert/XanderCalvert/blob/output/github-contribution-grid-snake.svg?color_snake=#4489ec&color_dots=#2d333b,#14482e,#067238,#2dab47,#38d353)" />
+  <source media="(prefers-color-scheme: light)" srcset="[github-snake.svg](https://github.com/XanderCalvert/XanderCalvert/blob/output/github-contribution-grid-snake.svg?color_snake=#4489ec&color_dots=#2d333b,#14482e,#067238,#2dab47,#38d353)" />
   <img alt="github-snake" src="https://github.com/XanderCalvert/XanderCalvert/blob/output/github-contribution-grid-snake.svg?color_snake=#4489ec&color_dots=#2d333b,#14482e,#067238,#2dab47,#38d353" />
 </picture>
 
