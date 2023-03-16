@@ -17,9 +17,9 @@ I am currently working as a Full Stack Web Dev. Having learnt to code during loc
 
 ---
 [![](https://visitcount.itsvg.in/api?id=XanderCalvert&icon=0&color=0)](https://visitcount.itsvg.in)
-<picture> 
-![Snake animation](https://github.com/XanderCalvert/XanderCalvert/blob/output/github-contribution-grid-snake.svg)
-</picture>
+
+![Snake animation](https://github.com/XanderCalvert/XanderCalvert/blob/output/github-contribution-grid-snake.svg?color_snake=#4489ec&color_dots=#2d333b,#14482e,#067238,#2dab47,#38d353)
+
 <!--
 **XanderCalvert/XanderCalvert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
