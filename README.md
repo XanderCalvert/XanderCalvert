@@ -27,7 +27,7 @@ I am currently working as a Full Stack Web Dev. Having learnt to code during loc
 ![](https://github-profile-trophy.vercel.app/?username=XanderCalvert&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=XanderCalvert&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=XanderCalvert&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- ![Snake animation](https://github.com/XanderCalvert/XanderCalvert/blob/output/github-contribution-grid-snake.svg?color_snake=#4489ec&color_dots=#2d333b,#14482e,#067238,#2dab47,#38d353) -->
 
