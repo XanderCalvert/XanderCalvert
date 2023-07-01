@@ -4,7 +4,6 @@ Currently working perdominantly in WordPress, giving me exposure to;<br>**PHP**,
 I am always enjoying sinking my teeth into a new challenge and am starting to contribute to some code bases.
 
 
-
 ## 🌐 Socials:
 <div id="badges">
   <a href="https://linkedin.com/in/matt-calvert">
