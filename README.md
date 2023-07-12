@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am currently working as a Full Stack Web Dev. Having learnt to code during lockdowns I have left the word of Gym Management behind for a career I am loving in tech.<br><br>
-Currently working perdominantly in WordPress, giving me exposure to;<br>**PHP**, **React** and **SQL**.<br><br>
+Currently working perdominantly in WordPress, giving me exposure to;<br>**PHP**, **React** and **SQL**.<br>
 I am always enjoying sinking my teeth into a new challenge and am starting to contribute to some code bases.
 
 
