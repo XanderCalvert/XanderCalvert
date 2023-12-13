@@ -1,7 +1,15 @@
 # 💫 About Me:
-I am currently working as a Full Stack Web Dev. Having learnt to code during lockdowns I have left the word of Gym Management behind for a career I am loving in tech.<br><br>
-Currently working perdominantly in WordPress, giving me exposure to;<br>**PHP**, **React** and **SQL**.<br>
-I am always enjoying sinking my teeth into a new challenge and am starting to contribute to some code bases.
+
+Hello, I'm a passionate Full Stack Web Developer who transitioned into the tech industry during the recent lockdowns. After leaving a career in Gym Management, I've fully embraced the dynamic and constantly evolving world of technology. 
+
+My journey in coding began out of curiosity but quickly grew into a deep-seated passion. Currently, I am primarily engaged in developing with WordPress, which has been a fantastic platform for honing my skills in **PHP**, **React**, and **SQL**.
+
+I thrive on tackling new challenges and am increasingly contributing to various codebases. My experience in WordPress not only involves creating engaging, user-friendly websites but also extends to customising and enhancing backend functionalities. 
+
+Being a self-taught developer, I am keen on continuous learning and am currently exploring other technologies and frameworks to broaden my skill set. Collaborating on projects and contributing to the community are aspects of my work that I find particularly rewarding.
+
+As I continue on this exciting journey in tech, I look forward to connecting with fellow developers and being part of innovative projects that push the boundaries of what's possible on the web.
+
 
 
 ## 🌐 Socials:
