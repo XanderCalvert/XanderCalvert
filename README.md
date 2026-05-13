@@ -1,10 +1,10 @@
-# 👋 About Me
+# Matt Calvert — Full Stack Web Developer
 
-I’m a Full Stack Web Developer specialising in **WordPress engineering and API-driven applications**, building systems that are designed to be maintainable, scalable, and long-lived.
+I'm a Full Stack Web Developer specialising in WordPress engineering and API-driven applications — building systems designed to be maintainable, scalable, and long-lived.
 
-I entered the industry during the lockdown years after a career in gym management, and since then I’ve worked deeply across **PHP**, **JavaScript (React)**, **SQL**, and modern WordPress architecture — from custom themes and Gutenberg blocks to backend systems, integrations, and performance.
+I came to the industry via gym management during the lockdown years, and have since worked deeply across PHP, JavaScript (React), SQL, and modern WordPress architecture — from custom themes and Gutenberg blocks to backend systems, integrations, and performance optimisation.
 
-I tend to gravitate towards work that improves and evolves existing systems rather than constantly replacing them. That means a lot of time spent on **refactoring, edge cases, standards compliance, and long-term maintainability** — the kind of decisions that make future development faster and safer.
+My focus is on backend-heavy work that improves and evolves existing systems: refactoring, standards compliance, edge cases, and the architectural decisions that make future development faster and safer.
 
 I’m particularly interested in:
 
@@ -91,7 +91,7 @@ It's designed to help users explore, filter, and evaluate golf courses through a
 
 ### HTTP 410 (Gone) Responses
 
-A lightweight WordPress plugin for correctly handling permanently removed URLs using HTTP 410 responses.
+A lightweight WordPress plugin for correctly handling permanently removed URLs using HTTP 410 responses — with thousands of active installs and actively maintained to WordPress standards.
 
 - Actively maintained  
 - Thousands of active installs  
@@ -110,10 +110,7 @@ A lightweight WordPress plugin for correctly handling permanently removed URLs u
 
 ## 🧪 Current Focus
 
-- Developing Course Atlas into a production-ready platform  
-- Building a reusable **WordPress website toolkit** for client projects  
-- Improving testing, automation, and deployment workflows  
-- Laying the groundwork for a small, product-focused web agency  
+I'm currently developing Course Atlas into a production-ready platform, while building out the technical foundation for a small product-focused web agency — with a reusable WordPress toolkit, improved testing and deployment workflows, and a long-term goal of building products alongside client work.
 
 
 ---
